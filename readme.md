@@ -8,3 +8,4 @@ To edit your app, refer to `./server.js`.
 Steps 1:
 Steps 2:
 Steps 3:
+Steps 4:
