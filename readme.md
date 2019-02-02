@@ -4,5 +4,5 @@ A simple Node.js Express app.
 
 To edit your app, refer to `./server.js`.
 
-# Fedback
+# Feedback
 Please provide your feedback via github issues. 
